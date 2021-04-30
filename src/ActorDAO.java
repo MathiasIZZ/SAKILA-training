@@ -9,6 +9,7 @@ import java.util.List;
 
 
 public class ActorDAO {
+
     public static List<Actor> getActors() {
         List<Actor> actors = new ArrayList<Actor>();
 
